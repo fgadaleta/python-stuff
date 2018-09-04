@@ -1,0 +1,17 @@
+name: generic-dev                                                                                                                                            
+dependencies:                                                                                                                                                     
+  - python=3.6.3                                                                                                                                                  
+  - pip:                                                                                                                                                          
+    - tensorflow                                                                                                                                                  
+    - keras                                                                                                                                                       
+    - sklearn                                                                                                                                                     
+    - faker                                                                                                                                                       
+    - pandas                                                                                                                                                      
+    - numpy                                                                                                                                                       
+    - scipy                                                                                                                                                       
+    - filemagic                                                                                                                                                   
+    - pprint                                                                                                                                                      
+    - merkletools                                                                                                                                                 
+    - merkle                                                                                                                                                      
+    - Pillow                                                                                                                                                      
+    - rlp   
