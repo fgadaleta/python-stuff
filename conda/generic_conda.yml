@@ -5,10 +5,10 @@ dependencies:
     - tensorflow
     - keras
     - sklearn
-    - faker
+	- dask
+	- faker
     - pandas
-    - matplotlib                                                                                                                                                     
-    - numpy
+    - matplotlib																																						  - numpy
     - scipy
     - filemagic
     - pprint
@@ -16,3 +16,4 @@ dependencies:
     - merkle
     - Pillow
     - rlp
+	- flake8
