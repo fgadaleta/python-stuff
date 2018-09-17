@@ -1,24 +1,25 @@
 name: generic-dev
 dependencies:
-    - python=3.6.3
+    - python=3.6
     - mypy
     - pip:
-    - tensorflow
-    - keras
-    - sklearn
-    - dask
-    - faker
-    - pandas
-    - matplotlib	
-    - numpy
-    - scipy
-    - filemagic
-    - pprint
-    - merkletools
-    - merkle
-    - Pillow
-    - rlp
-    - flake8
-    - joblib
-    - requests
-    - cython
+      - tensorflow
+      - keras
+      - sklearn
+      - dask
+      - faker
+      - pandas
+      - matplotlib
+      - numpy
+      - scipy
+      - filemagic
+      - pprint
+      - merkletools
+      - merkle
+      - Pillow
+      - rlp
+      - flake8
+      - joblib
+      - requests
+      - cython
+      - pyyaml
