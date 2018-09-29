@@ -23,3 +23,7 @@ dependencies:
       - requests
       - cython
       - pyyaml
+      - pytest
+      - jupyter
+      - ipython
+      - anytree
