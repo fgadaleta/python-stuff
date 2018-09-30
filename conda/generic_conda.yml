@@ -27,3 +27,5 @@ dependencies:
       - jupyter
       - ipython
       - anytree
+      - flask
+      - graphviz
