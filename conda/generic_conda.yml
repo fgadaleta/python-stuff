@@ -28,4 +28,6 @@ dependencies:
       - ipython
       - anytree
       - flask
+      - flask-expects-json
       - graphviz
+      - plyvel
